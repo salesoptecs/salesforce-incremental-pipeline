@@ -1,0 +1,9 @@
+simple-salesforce>=1.12
+pandas>=2.0
+pyodbc>=5.0
+requests>=2.31
+python-dotenv>=1.0
+# only for cdc_listener.py
+grpcio>=1.60
+grpcio-tools>=1.60
+fastavro>=1.9
