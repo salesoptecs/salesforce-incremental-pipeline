@@ -66,5 +66,4 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("
-Stopped listening.")
+        print("\nStopped listening.")
